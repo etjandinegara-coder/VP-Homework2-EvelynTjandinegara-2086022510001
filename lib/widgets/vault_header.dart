@@ -11,7 +11,7 @@ class VaultHeader extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          'My Drama Vault 👋',
+          'My Drama Vault',
           style: textTheme.headlineSmall?.copyWith(
             fontWeight: FontWeight.bold,
           ),
